@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+  }
+  
+  button {
+    border: 1px;
+    border-radius: 15px;
+    padding: 15px;
+    cursor: pointer;
+    background-color: antiquewhite;
+    padding: 25px 45px;
+  }
+  
+  .dark {
+    background-color: #112F41;
+    color: #ffffff;
+  }
+  
+  .dark button {
+    background: #144098;
+    color: #fff;
+  }
